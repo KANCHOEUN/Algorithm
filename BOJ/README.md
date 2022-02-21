@@ -9,7 +9,6 @@
 
 
 <br>
-<br>
 
 ### 🥈 <strong>실버</strong>
 |  번호  |  문제 번호  |  문제 이름  |  문제 유형  |  난이도  |  풀이  |
@@ -17,14 +16,12 @@
 | 01 | [1946](https://www.acmicpc.net/problem/1946) | 신입 사원 | 그리디, 정렬 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |   [바로가기](./Silver/BOJ_1946.md)  |
 
 <br>
-<br>
 
 ### 🥇 <strong>골드</strong>
 |  번호  |  문제 번호  |  문제 이름  |  문제 유형  |  난이도  |  풀이  |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 01 | [13913](https://www.acmicpc.net/problem/13913) | 숨바꼭질 4 | 그래프, BFS |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |   [바로가기](./Gold/BOJ_13913.md)  |
 
-<br>
 <br>
 
 ### 💎 <strong>플래티넘</strong>
