@@ -1,5 +1,12 @@
 # BOJ 풀이
 
+### 3️⃣ <strong>D3</strong>
+
+|  번호  |  문제 번호  |  문제 이름  |  문제 유형  |  난이도  |  풀이  |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 01 | [4047](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIsY84KEPMDFAWN&categoryId=AWIsY84KEPMDFAWN&categoryType=CODE&problemTitle=4047&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | 영준이의 카드 카운팅 | 구현, 비트마스크 |  D3  |  [바로가기](./D3/SWEA_4047.md)  |
+
+
 ### 4️⃣ <strong>D4</strong>
 
 |  번호  |  문제 번호  |  문제 이름  |  문제 유형  |  난이도  |  풀이  |
