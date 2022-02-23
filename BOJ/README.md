@@ -21,7 +21,8 @@
 |  번호  |  문제 번호  |  문제 이름  |  문제 유형  |  난이도  |  풀이  |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 01 | [13913](https://www.acmicpc.net/problem/13913) | 숨바꼭질 4 | 그래프, BFS |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |   [바로가기](./Gold/BOJ_13913.md)  |
-| 02 | [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | 수학, 브루트포스, 백트래킹 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |   [바로가기](./Gold/BOJ_1759.md.md)  |
+| 02 | [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | 수학, 브루트포스, 백트래킹 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |   [바로가기](./Gold/BOJ_1759.md)  |
+| 02 | [16236](https://www.acmicpc.net/problem/16236) | 암호 만들기 | 구현, 시뮬레이션, 그래프, BFS |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |   [바로가기](./Gold/BOJ_13913.md)  |
 
 <br>
 
