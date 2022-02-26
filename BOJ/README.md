@@ -4,8 +4,7 @@
 
 |  번호  |  문제 번호  |  문제 이름  |  문제 유형  |  난이도  |  풀이  |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 01 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | 수학, DP, 그리디 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |   [바로가기](.)  |
-| 02 | [2839](https://www.acmicpc.net/problem/2839) | 설탕 배달 | 수학, DP, 그리디 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |   [바로가기](.)  |  |
+| 01 | [2999](https://www.acmicpc.net/problem/2999) | 비밀 이메일 | 구현 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |   [바로가기](./Bronze/BOJ_2999)  |
 
 
 <br>
