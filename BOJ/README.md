@@ -24,6 +24,7 @@
 | 02 | [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | 수학, 브루트포스, 백트래킹 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |   [바로가기](./Gold/BOJ_1759.md)  |
 | 03 | [16236](https://www.acmicpc.net/problem/16236) | 암호 만들기 | 구현, 시뮬레이션, 그래프, BFS |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |   [바로가기](./Gold/BOJ_13913.md)  |
 | 04 | [15686](https://www.acmicpc.net/problem/15686) | 치킨 배달 | 구현, 브루트포스 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |   [바로가기](./Gold/BOJ_15686.md)  |
+| 05 | [2234](https://www.acmicpc.net/problem/2234) | 성곽 | 그래프, BFS, 비트마스킹 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |   [바로가기](./Gold/BOJ_2234.md)  |
 
 
 <br>
