@@ -14,6 +14,7 @@
 |  번호  |  문제 번호  |  문제 이름  |  문제 유형  |  난이도  |  풀이  |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 01 | [1946](https://www.acmicpc.net/problem/1946) | 신입 사원 | 그리디, 정렬 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |   [바로가기](./Silver/BOJ_1946.md)  |
+| 02 | [2564](https://www.acmicpc.net/problem/2564) | 경비원 | 구현, 분기 |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |   [바로가기](./Silver/BOJ_2564.md.md)  |
 
 <br>
 
