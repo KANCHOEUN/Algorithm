@@ -30,6 +30,7 @@
 |  05  |  [2234](https://www.acmicpc.net/problem/2234)  |      성곽      |    그래프, BFS, 비트마스킹    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |   [바로가기](./Gold/BOJ_2234.md)   |
 |  06  |  [7576](https://www.acmicpc.net/problem/7576)  |     토마토     |          그래프, BFS          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |   [바로가기](./Gold/BOJ_7576.md)   |
 |  07  | [17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕! |       구현, 시뮬레이션        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  [바로가기](./Gold/BOJ_17144.md)   |
+|  08  |  [2580](https://www.acmicpc.net/problem/2580)  |     스도쿠     |           백트래킹            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |   [바로가기](./Gold/BOJ_2580.md)   |
 
 <br>
 
