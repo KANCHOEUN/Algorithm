@@ -22,17 +22,18 @@
 
 ### 🥇 <strong>골드</strong>
 
-| 번호 |                   문제 번호                    |    문제 이름     |           문제 유형           |                                       난이도                                       |              풀이               |
-| :--: | :--------------------------------------------: | :--------------: | :---------------------------: | :--------------------------------------------------------------------------------: | :-----------------------------: |
-|  01  | [13913](https://www.acmicpc.net/problem/13913) |    숨바꼭질 4    |          그래프, BFS          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_13913.md) |
-|  02  |  [1759](https://www.acmicpc.net/problem/1759)  |   암호 만들기    |  수학, 브루트포스, 백트래킹   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_1759.md)  |
-|  03  | [16236](https://www.acmicpc.net/problem/16236) |    아기 상어     | 구현, 시뮬레이션, 그래프, BFS | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_16236.md) |
-|  04  | [15686](https://www.acmicpc.net/problem/15686) |    치킨 배달     |       구현, 브루트포스        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_15686.md) |
-|  05  |  [2234](https://www.acmicpc.net/problem/2234)  |       성곽       |    그래프, BFS, 비트마스킹    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2234.md)  |
-|  06  |  [7576](https://www.acmicpc.net/problem/7576)  |      토마토      |          그래프, BFS          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_7576.md)  |
-|  07  | [17144](https://www.acmicpc.net/problem/17144) |  미세먼지 안녕!  |       구현, 시뮬레이션        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_17144.md) |
-|  08  |  [2580](https://www.acmicpc.net/problem/2580)  |      스도쿠      |           백트래킹            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2580.md)  |
-|  09  |  [1915](https://www.acmicpc.net/problem/1915)  | 가장 큰 정사각형 |              DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1915.md)  |
+| 번호 |                   문제 번호                    |        문제 이름        |           문제 유형           |                                       난이도                                       |              풀이               |
+| :--: | :--------------------------------------------: | :---------------------: | :---------------------------: | :--------------------------------------------------------------------------------: | :-----------------------------: |
+|  01  | [13913](https://www.acmicpc.net/problem/13913) |       숨바꼭질 4        |          그래프, BFS          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_13913.md) |
+|  02  |  [1759](https://www.acmicpc.net/problem/1759)  |       암호 만들기       |  수학, 브루트포스, 백트래킹   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_1759.md)  |
+|  03  | [16236](https://www.acmicpc.net/problem/16236) |        아기 상어        | 구현, 시뮬레이션, 그래프, BFS | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_16236.md) |
+|  04  | [15686](https://www.acmicpc.net/problem/15686) |        치킨 배달        |       구현, 브루트포스        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_15686.md) |
+|  05  |  [2234](https://www.acmicpc.net/problem/2234)  |          성곽           |    그래프, BFS, 비트마스킹    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2234.md)  |
+|  06  |  [7576](https://www.acmicpc.net/problem/7576)  |         토마토          |          그래프, BFS          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_7576.md)  |
+|  07  | [17144](https://www.acmicpc.net/problem/17144) |     미세먼지 안녕!      |       구현, 시뮬레이션        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_17144.md) |
+|  08  |  [2580](https://www.acmicpc.net/problem/2580)  |         스도쿠          |           백트래킹            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2580.md)  |
+|  09  |  [1915](https://www.acmicpc.net/problem/1915)  |    가장 큰 정사각형     |              DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1915.md)  |
+|  10  | [20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 |       구현, 시뮬레이션        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_20055.md) |
 
 <br>
 
