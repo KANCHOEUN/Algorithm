@@ -2,11 +2,12 @@
 
 ### 🥉 <strong>브론즈</strong>
 
-| 번호 |                  문제 번호                   |  문제 이름  |    문제 유형    |                                      난이도                                       |               풀이               |
-| :--: | :------------------------------------------: | :---------: | :-------------: | :-------------------------------------------------------------------------------: | :------------------------------: |
-|  01  | [2999](https://www.acmicpc.net/problem/2999) | 비밀 이메일 |      구현       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |  [바로가기](./Bronze/BOJ_2999)   |
-|  02  | [2991](https://www.acmicpc.net/problem/2991) |  사나운 개  | 수학, 사칙 연산 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |  [바로가기](./Bronze/BOJ_2991)   |
-|  03  | [3985](https://www.acmicpc.net/problem/3985) |  롤 케이크  |      구현       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [바로가기](./Bronze/BOJ_3985.md) |
+| 번호 |                   문제 번호                    |  문제 이름  |    문제 유형    |                                      난이도                                       |               풀이                |
+| :--: | :--------------------------------------------: | :---------: | :-------------: | :-------------------------------------------------------------------------------: | :-------------------------------: |
+|  01  |  [2999](https://www.acmicpc.net/problem/2999)  | 비밀 이메일 |      구현       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |   [바로가기](./Bronze/BOJ_2999)   |
+|  02  |  [2991](https://www.acmicpc.net/problem/2991)  |  사나운 개  | 수학, 사칙 연산 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |   [바로가기](./Bronze/BOJ_2991)   |
+|  03  |  [3985](https://www.acmicpc.net/problem/3985)  |  롤 케이크  |      구현       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [바로가기](./Bronze/BOJ_3985.md)  |
+|  04  | [13458](https://www.acmicpc.net/problem/13458) |  시험 감독  | 수학, 사칙연산  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [바로가기](./Bronze/BOJ_13458.md) |
 
 <br>
 
