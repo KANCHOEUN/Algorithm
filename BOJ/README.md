@@ -36,6 +36,7 @@
 |  08  |  [2580](https://www.acmicpc.net/problem/2580)  |         스도쿠          |           백트래킹            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2580.md)  |
 |  09  |  [1915](https://www.acmicpc.net/problem/1915)  |    가장 큰 정사각형     |              DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1915.md)  |
 |  10  | [20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 |       구현, 시뮬레이션        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_20055.md) |
+|  11  | [14499](https://www.acmicpc.net/problem/14499) |      주사위 굴리기      |       구현, 시뮬레이션        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_14499.md) |
 
 <br>
 
