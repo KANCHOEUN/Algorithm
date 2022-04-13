@@ -19,6 +19,7 @@
 |  02  | [2564](https://www.acmicpc.net/problem/2564) |    경비원     |    구현, 분기    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2564.md) |
 |  03  | [1713](https://www.acmicpc.net/problem/1713) | 후보 추천하기 | 구현, 시뮬레이션 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1713.md) |
 |  04  | [1463](https://www.acmicpc.net/problem/1463) |  1로 만들기   |        DP        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_1463.md) |
+|  05  | [1260](https://www.acmicpc.net/problem/1260) |   DFS와 BFS   |     DFS, BFS     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1260.md) |
 
 <br>
 
