@@ -39,7 +39,8 @@
 |  10  | [20055](https://www.acmicpc.net/problem/20055) | 컨베이어 벨트 위의 로봇 |        구현, 시뮬레이션        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_20055.md) |
 |  11  | [14499](https://www.acmicpc.net/problem/14499) |      주사위 굴리기      |        구현, 시뮬레이션        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_14499.md) |
 |  12  | [14502](https://www.acmicpc.net/problem/14502) |         연구소          |    그래프, 브루트포스, BFS     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_14502.md) |
-|  12  | [17135](https://www.acmicpc.net/problem/17135) |       캐슬 디펜스       | 그래프, 브루트포스, 시뮬레이션 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_17135.md) |
+|  13  | [17135](https://www.acmicpc.net/problem/17135) |       캐슬 디펜스       | 그래프, 브루트포스, 시뮬레이션 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_17135.md) |
+|  14  | [10026](https://www.acmicpc.net/problem/10026) |        적록색약         |          그래프, BFS           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_10026.md) |
 
 <br>
 
