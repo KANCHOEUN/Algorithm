@@ -41,6 +41,7 @@
 |  12  | [14502](https://www.acmicpc.net/problem/14502) |         연구소          |    그래프, 브루트포스, BFS     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_14502.md) |
 |  13  | [17135](https://www.acmicpc.net/problem/17135) |       캐슬 디펜스       | 그래프, 브루트포스, 시뮬레이션 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_17135.md) |
 |  14  | [10026](https://www.acmicpc.net/problem/10026) |        적록색약         |          그래프, BFS           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_10026.md) |
+|  15  |  [2011](https://www.acmicpc.net/problem/2011)  |        적록색약         |               DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2011.md)  |
 
 <br>
 
