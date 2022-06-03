@@ -12,6 +12,7 @@
 |  02  |   [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)    | DFS/BFS, 백트래킹 |        위클리 챌린지         | [바로가기](./Lv2/weekchallenge_1.md) |
 |  03  | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)  |   문자열, 구현    | 2020 KAKAO BLIND RECRUITMENT |    [바로가기](./Lv2/2020kbr_2.md)    |
 |  04  |  [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)  |   문자열, 구현    |        위클리 챌린지         | [바로가기](./Lv2/weekchallenge_2.md) |
+|  05  | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |     재귀 함수     | 2021 KAKAO BLIND RECRUITMENT |    [바로가기](./Lv2/2021kbr_1.md)    |
 
 <br>
 
