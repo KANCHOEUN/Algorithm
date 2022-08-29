@@ -44,6 +44,7 @@
 |  14  | [10026](https://www.acmicpc.net/problem/10026) |        적록색약         |          그래프, BFS           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_10026.md) |
 |  15  |  [2011](https://www.acmicpc.net/problem/2011)  |        암호코드         |               DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2011.md)  |
 |  16  |  [2470](https://www.acmicpc.net/problem/2470)  |         두 용액         |   정렬, 이분 탐색, 투 포인터   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2470.md)  |
+|  17  | [16637](https://www.acmicpc.net/problem/16637) |      괄호 추가하기      |           브루트포스           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_16637.md) |
 
 <br>
 
