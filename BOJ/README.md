@@ -14,14 +14,15 @@
 
 ### 🥈 <strong>실버</strong>
 
-| 번호 |                  문제 번호                   |   문제 이름   |    문제 유형     |                                       난이도                                       |               풀이               |
-| :--: | :------------------------------------------: | :-----------: | :--------------: | :--------------------------------------------------------------------------------: | :------------------------------: |
-|  01  | [1946](https://www.acmicpc.net/problem/1946) |   신입 사원   |   그리디, 정렬   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1946.md) |
-|  02  | [2564](https://www.acmicpc.net/problem/2564) |    경비원     |    구현, 분기    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2564.md) |
-|  03  | [1713](https://www.acmicpc.net/problem/1713) | 후보 추천하기 | 구현, 시뮬레이션 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1713.md) |
-|  04  | [1463](https://www.acmicpc.net/problem/1463) |  1로 만들기   |        DP        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_1463.md) |
-|  05  | [1260](https://www.acmicpc.net/problem/1260) |   DFS와 BFS   |     DFS, BFS     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1260.md) |
-|  06  | [2343](https://www.acmicpc.net/problem/2343) |   기타 레슨   |    이분 탐색     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2343.md) |
+| 번호 |                  문제 번호                   |   문제 이름   |     문제 유형     |                                       난이도                                       |               풀이               |
+| :--: | :------------------------------------------: | :-----------: | :---------------: | :--------------------------------------------------------------------------------: | :------------------------------: |
+|  01  | [1946](https://www.acmicpc.net/problem/1946) |   신입 사원   |   그리디, 정렬    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1946.md) |
+|  02  | [2564](https://www.acmicpc.net/problem/2564) |    경비원     |    구현, 분기     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2564.md) |
+|  03  | [1713](https://www.acmicpc.net/problem/1713) | 후보 추천하기 | 구현, 시뮬레이션  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1713.md) |
+|  04  | [1463](https://www.acmicpc.net/problem/1463) |  1로 만들기   |        DP         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_1463.md) |
+|  05  | [1260](https://www.acmicpc.net/problem/1260) |   DFS와 BFS   |     DFS, BFS      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1260.md) |
+|  06  | [2343](https://www.acmicpc.net/problem/2343) |   기타 레슨   |     이분 탐색     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2343.md) |
+|  07  | [4358](https://www.acmicpc.net/problem/4358) |    생태학     | 문자열, 자료 구조 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_4358.md) |
 
 <br>
 
