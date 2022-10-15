@@ -50,6 +50,7 @@
 |  16  |  [2470](https://www.acmicpc.net/problem/2470)  |         두 용액         |   정렬, 이분 탐색, 투 포인터   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2470.md)  |
 |  17  | [16637](https://www.acmicpc.net/problem/16637) |      괄호 추가하기      |           브루트포스           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_16637.md) |
 |  18  | [16637](https://www.acmicpc.net/problem/16637) |       숫자고르기        |          그래프, DFS           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2668.md)  |
+|  19  |  [1253](https://www.acmicpc.net/problem/1253)  |          좋다           |   정렬, 이분 탐색, 투 포인터   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1253.md)  |
 
 <br>
 
