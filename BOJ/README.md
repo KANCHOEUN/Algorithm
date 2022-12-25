@@ -26,6 +26,7 @@
 |  08  |  [1254](https://www.acmicpc.net/problem/1254)  |   팰린드롬    |  문자열, 브루트포스   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1254.md)  |
 |  09  |  [2531](https://www.acmicpc.net/problem/2531)  |   회전 초밥   | 브루트포스, 두 포인터 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2531.md)  |
 |  10  | [10819](https://www.acmicpc.net/problem/10819) | 차이를 최대로 | 브루트포스, 백트래킹  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_10819.md) |
+|  11  | [15654](https://www.acmicpc.net/problem/15654) |   N과 M (5)   |       백트래킹        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15654.md) |
 
 <br>
 
