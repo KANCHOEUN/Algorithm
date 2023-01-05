@@ -28,6 +28,7 @@
 |  10  | [10819](https://www.acmicpc.net/problem/10819) | 차이를 최대로 | 브루트포스, 백트래킹  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_10819.md) |
 |  11  | [15654](https://www.acmicpc.net/problem/15654) |   N과 M (5)   |       백트래킹        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15654.md) |
 |  12  | [11286](https://www.acmicpc.net/problem/11286) |   절댓값 힙   |      우선순위 큐      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_11286.md) |
+|  13  |  [1780](https://www.acmicpc.net/problem/1780)  |  종이의 개수  |    분할 정복, 재귀    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1780.md)  |
 
 <br>
 
