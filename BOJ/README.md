@@ -15,22 +15,23 @@
 
 ### 🥈 <strong>실버</strong>
 
-| 번호 |                   문제 번호                    |   문제 이름   |       문제 유형       |                                       난이도                                       |               풀이                |
-| :--: | :--------------------------------------------: | :-----------: | :-------------------: | :--------------------------------------------------------------------------------: | :-------------------------------: |
-|  01  |  [1946](https://www.acmicpc.net/problem/1946)  |   신입 사원   |     그리디, 정렬      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1946.md)  |
-|  02  |  [2564](https://www.acmicpc.net/problem/2564)  |    경비원     |      구현, 분기       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2564.md)  |
-|  03  |  [1713](https://www.acmicpc.net/problem/1713)  | 후보 추천하기 |   구현, 시뮬레이션    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1713.md)  |
-|  04  |  [1463](https://www.acmicpc.net/problem/1463)  |  1로 만들기   |          DP           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_1463.md)  |
-|  05  |  [1260](https://www.acmicpc.net/problem/1260)  |   DFS와 BFS   |       DFS, BFS        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1260.md)  |
-|  06  |  [2343](https://www.acmicpc.net/problem/2343)  |   기타 레슨   |       이분 탐색       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2343.md)  |
-|  07  |  [4358](https://www.acmicpc.net/problem/4358)  |    생태학     |   문자열, 자료 구조   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_4358.md)  |
-|  08  |  [1254](https://www.acmicpc.net/problem/1254)  |   팰린드롬    |  문자열, 브루트포스   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1254.md)  |
-|  09  |  [2531](https://www.acmicpc.net/problem/2531)  |   회전 초밥   | 브루트포스, 두 포인터 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2531.md)  |
-|  10  | [10819](https://www.acmicpc.net/problem/10819) | 차이를 최대로 | 브루트포스, 백트래킹  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_10819.md) |
-|  11  | [15654](https://www.acmicpc.net/problem/15654) |   N과 M (5)   |       백트래킹        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15654.md) |
-|  12  | [11286](https://www.acmicpc.net/problem/11286) |   절댓값 힙   |      우선순위 큐      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_11286.md) |
-|  13  |  [1780](https://www.acmicpc.net/problem/1780)  |  종이의 개수  |    분할 정복, 재귀    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1780.md)  |
-|  14  |  [1935](https://www.acmicpc.net/problem/1935)  | 후위 표현식2  |    자료 구조, 스택    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_1935.md)  |
+| 번호 |                   문제 번호                    |    문제 이름     |             문제 유형              |                                       난이도                                       |               풀이                |
+| :--: | :--------------------------------------------: | :--------------: | :--------------------------------: | :--------------------------------------------------------------------------------: | :-------------------------------: |
+|  01  |  [1946](https://www.acmicpc.net/problem/1946)  |    신입 사원     |            그리디, 정렬            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1946.md)  |
+|  02  |  [2564](https://www.acmicpc.net/problem/2564)  |      경비원      |             구현, 분기             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2564.md)  |
+|  03  |  [1713](https://www.acmicpc.net/problem/1713)  |  후보 추천하기   |          구현, 시뮬레이션          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1713.md)  |
+|  04  |  [1463](https://www.acmicpc.net/problem/1463)  |    1로 만들기    |                 DP                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_1463.md)  |
+|  05  |  [1260](https://www.acmicpc.net/problem/1260)  |    DFS와 BFS     |              DFS, BFS              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1260.md)  |
+|  06  |  [2343](https://www.acmicpc.net/problem/2343)  |    기타 레슨     |             이분 탐색              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2343.md)  |
+|  07  |  [4358](https://www.acmicpc.net/problem/4358)  |      생태학      |         문자열, 자료 구조          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_4358.md)  |
+|  08  |  [1254](https://www.acmicpc.net/problem/1254)  |     팰린드롬     |         문자열, 브루트포스         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1254.md)  |
+|  09  |  [2531](https://www.acmicpc.net/problem/2531)  |    회전 초밥     |       브루트포스, 두 포인터        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2531.md)  |
+|  10  | [10819](https://www.acmicpc.net/problem/10819) |  차이를 최대로   |        브루트포스, 백트래킹        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_10819.md) |
+|  11  | [15654](https://www.acmicpc.net/problem/15654) |    N과 M (5)     |              백트래킹              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15654.md) |
+|  12  | [11286](https://www.acmicpc.net/problem/11286) |    절댓값 힙     |            우선순위 큐             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_11286.md) |
+|  13  |  [1780](https://www.acmicpc.net/problem/1780)  |   종이의 개수    |          분할 정복, 재귀           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1780.md)  |
+|  14  |  [1935](https://www.acmicpc.net/problem/1935)  |   후위 표현식2   |          자료 구조, 스택           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_1935.md)  |
+|  15  |  [7785](https://www.acmicpc.net/problem/7785)  | 회사에 있는 사람 | 자료 구조, 해시를 사용한 집합과 맵 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  | [바로가기](./Silver/BOJ_7785.md)  |
 
 <br>
 
