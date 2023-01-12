@@ -59,6 +59,7 @@
 |  18  | [16637](https://www.acmicpc.net/problem/16637) |       숫자고르기        |          그래프, DFS           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2668.md)  |
 |  19  |  [1253](https://www.acmicpc.net/problem/1253)  |          좋다           |   정렬, 이분 탐색, 투 포인터   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1253.md)  |
 |  20  |  [1655](https://www.acmicpc.net/problem/1655)  |     가운데를 말해요     |     자료 구조, 우선순위 큐     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](./Gold/BOJ_1655.md)  |
+|  21  |  [4811](https://www.acmicpc.net/problem/4811)  |          알약           |   수학, 다이나믹 프로그래밍    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_4811.md)  |
 
 <br>
 
