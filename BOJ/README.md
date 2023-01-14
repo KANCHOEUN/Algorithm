@@ -32,6 +32,7 @@
 |  13  |  [1780](https://www.acmicpc.net/problem/1780)  |   종이의 개수    |          분할 정복, 재귀           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1780.md)  |
 |  14  |  [1935](https://www.acmicpc.net/problem/1935)  |   후위 표현식2   |          자료 구조, 스택           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_1935.md)  |
 |  15  |  [7785](https://www.acmicpc.net/problem/7785)  | 회사에 있는 사람 | 자료 구조, 해시를 사용한 집합과 맵 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  | [바로가기](./Silver/BOJ_7785.md)  |
+|  16  |  [2302](https://www.acmicpc.net/problem/2302)  |    극장 좌석     |                 DP                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2302.md)  |
 
 <br>
 
@@ -59,7 +60,7 @@
 |  18  | [16637](https://www.acmicpc.net/problem/16637) |       숫자고르기        |          그래프, DFS           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2668.md)  |
 |  19  |  [1253](https://www.acmicpc.net/problem/1253)  |          좋다           |   정렬, 이분 탐색, 투 포인터   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1253.md)  |
 |  20  |  [1655](https://www.acmicpc.net/problem/1655)  |     가운데를 말해요     |     자료 구조, 우선순위 큐     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](./Gold/BOJ_1655.md)  |
-|  21  |  [4811](https://www.acmicpc.net/problem/4811)  |          알약           |   수학, 다이나믹 프로그래밍    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_4811.md)  |
+|  21  |  [4811](https://www.acmicpc.net/problem/4811)  |          알약           |            수학, DP            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_4811.md)  |
 
 <br>
 
