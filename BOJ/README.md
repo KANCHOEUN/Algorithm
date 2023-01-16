@@ -63,6 +63,7 @@
 |  20  |  [1655](https://www.acmicpc.net/problem/1655)  |     가운데를 말해요     |     자료 구조, 우선순위 큐     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](./Gold/BOJ_1655.md)  |
 |  21  |  [4811](https://www.acmicpc.net/problem/4811)  |          알약           |            수학, DP            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_4811.md)  |
 |  22  |  [2133](https://www.acmicpc.net/problem/2133)  |       타일 채우기       |               DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2133.md)  |
+|  23  |  [2170](https://www.acmicpc.net/problem/2170)  |         선 긋기         |          정렬, 스위핑          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2170.md)  |
 
 <br>
 
