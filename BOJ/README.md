@@ -34,6 +34,7 @@
 |  15  |  [7785](https://www.acmicpc.net/problem/7785)  | 회사에 있는 사람 |    자료 구조, 해시를 사용한 집합과 맵    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  | [바로가기](./Silver/BOJ_7785.md)  |
 |  16  |  [2302](https://www.acmicpc.net/problem/2302)  |    극장 좌석     |                    DP                    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2302.md)  |
 |  17  | [11652](https://www.acmicpc.net/problem/11652) |       카드       | 자료 구조, 정렬, 해시를 사용한 집합과 맵 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기](./Silver/BOJ_11652.md) |
+|  18  |  [1931](https://www.acmicpc.net/problem/1931)  |   회의실 배정    |          그리디 알고리즘, 정렬           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1931.md)  |
 
 <br/>
 
