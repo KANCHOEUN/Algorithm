@@ -67,6 +67,7 @@
 |  23  |  [2170](https://www.acmicpc.net/problem/2170)  |           선 긋기            |          정렬, 스위핑          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2170.md)  |
 |  24  |  [2225](https://www.acmicpc.net/problem/2225)  |            합분해            |            수학, DP            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2225.md)  |
 |  25  | [14002](https://www.acmicpc.net/problem/14002) | 가장 긴 증가하는 부분 수열 4 |               DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_14002.md) |
+|  26  | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 |           이분 탐색            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](./Gold/BOJ_12738.md) |
 
 <br>
 
