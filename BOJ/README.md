@@ -70,6 +70,7 @@
 |  25  | [14002](https://www.acmicpc.net/problem/14002) | 가장 긴 증가하는 부분 수열 4 |               DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_14002.md) |
 |  26  | [12738](https://www.acmicpc.net/problem/12738) | 가장 긴 증가하는 부분 수열 3 |           이분 탐색            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](./Gold/BOJ_12738.md) |
 |  27  |  [1918](https://www.acmicpc.net/problem/1918)  |         후위 표기식          |        자료 구조, 스택         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](./Gold/BOJ_1918.md)  |
+|  28  | [11058](https://www.acmicpc.net/problem/11058) |           크리보드           |               DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_11058.md) |
 
 <br>
 
