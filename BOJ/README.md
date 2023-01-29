@@ -37,6 +37,7 @@
 |  18  |  [1931](https://www.acmicpc.net/problem/1931)  |   회의실 배정    |          그리디 알고리즘, 정렬           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1931.md)  |
 |  19  | [18353](https://www.acmicpc.net/problem/18353) |  병사 배치하기   |                이분 검색                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_18353.md) |
 |  20  |  [2407](https://www.acmicpc.net/problem/2407)  |       조합       |         조합론, 수학, 큰 수 연산         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_2407.md)  |
+|  21  | [16198](https://www.acmicpc.net/problem/16198) |  에너지 모으기   |           브루트포스, 백트래킹           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_16198.md) |
 
 <br/>
 
