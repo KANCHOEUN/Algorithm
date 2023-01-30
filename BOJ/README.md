@@ -39,6 +39,7 @@
 |  20  |  [2407](https://www.acmicpc.net/problem/2407)  |       조합       |         조합론, 수학, 큰 수 연산         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_2407.md)  |
 |  21  | [16198](https://www.acmicpc.net/problem/16198) |  에너지 모으기   |           브루트포스, 백트래킹           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_16198.md) |
 |  22  |  [1476](https://www.acmicpc.net/problem/1476)  |    날짜 계산     |         수학, 브루트포스, 정수론         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  | [바로가기](./Silver/BOJ_1476.md)  |
+|  23  | [17413](https://www.acmicpc.net/problem/17413) |  단어 뒤집기 2   |      구현, 자료 구조, 문자열, 스택       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_17413.md) |
 
 <br/>
 
