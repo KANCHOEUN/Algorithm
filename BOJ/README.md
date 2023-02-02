@@ -77,6 +77,7 @@
 |  27  |  [1918](https://www.acmicpc.net/problem/1918)  |         후위 표기식          |        자료 구조, 스택         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](./Gold/BOJ_1918.md)  |
 |  28  | [11058](https://www.acmicpc.net/problem/11058) |           크리보드           |               DP               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_11058.md) |
 |  29  |  [1806](https://www.acmicpc.net/problem/1806)  |            부분합            |           투 포인터            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1806.md)  |
+|  30  | [13023](https://www.acmicpc.net/problem/13023) |            ABCDE             |          그래프, DFS           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_13023.md) |
 
 <br>
 
