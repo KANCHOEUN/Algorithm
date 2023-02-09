@@ -45,6 +45,7 @@
 |  25  | [15990](https://www.acmicpc.net/problem/15990) | 1, 2, 3 더하기 5 |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_15990.md) |
 |  26  | [17219](https://www.acmicpc.net/problem/17219) |  비밀번호 찾기   |        자료 구조, 해시를 사용한 집합과 맵        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기](./Silver/BOJ_17219.md) |
 |  27  |  [9375](https://www.acmicpc.net/problem/9375)  |  패션왕 신해빈   | 수학, 자료 구조, 조합론, 해시를 사용한 집합과 맵 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_9375.md)  |
+|  28  | [15657](https://www.acmicpc.net/problem/15657) |    N과 M (8)     |                     백트래킹                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15657.md) |
 
 <br/>
 
