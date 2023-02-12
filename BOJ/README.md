@@ -91,7 +91,8 @@
 
 ### 💎 <strong>플래티넘</strong>
 
-| 번호 |                   문제 번호                    |          문제 이름           |    문제 유형     |                                       난이도                                       |                풀이                 |
-| :--: | :--------------------------------------------: | :--------------------------: | :--------------: | :--------------------------------------------------------------------------------: | :---------------------------------: |
-|  01  |  [2839](https://www.acmicpc.net/problem/2839)  |          설탕 배달           | 수학, DP, 그리디 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/20.svg"/> |            [바로가기](.)            |
-|  02  | [14003](https://www.acmicpc.net/problem/14003) | 가장 긴 증가하는 부분 수열 5 |    이분 탐색     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [바로가기](./Platinum/BOJ_14003.md) |
+| 번호 |                   문제 번호                    |          문제 이름           |           문제 유형            |                                       난이도                                       |                풀이                 |
+| :--: | :--------------------------------------------: | :--------------------------: | :----------------------------: | :--------------------------------------------------------------------------------: | :---------------------------------: |
+|  01  |  [2839](https://www.acmicpc.net/problem/2839)  |          설탕 배달           |        수학, DP, 그리디        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/20.svg"/> |            [바로가기](.)            |
+|  02  | [14003](https://www.acmicpc.net/problem/14003) | 가장 긴 증가하는 부분 수열 5 |           이분 탐색            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [바로가기](./Platinum/BOJ_14003.md) |
+|  03  |  [2887](https://www.acmicpc.net/problem/2887)  |          행성 터널           | 그래프, 정렬, 최소 스패닝 트리 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [바로가기](./Platinum/BOJ_2887.md)  |
