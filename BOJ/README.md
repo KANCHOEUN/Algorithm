@@ -49,6 +49,7 @@
 |  28  | [15657](https://www.acmicpc.net/problem/15657) |    N과 M (8)     |                     백트래킹                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15657.md) |
 |  29  | [15655](https://www.acmicpc.net/problem/15655) |    N과 M (6)     |                     백트래킹                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15655.md) |
 |  30  | [11723](https://www.acmicpc.net/problem/11723) |       집합       |                 구현, 비트마스킹                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  | [바로가기](./Silver/BOJ_11723.md) |
+|  31  | [15656](https://www.acmicpc.net/problem/15656) |    N과 M (7)     |                     백트래킹                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15656.md) |
 
 <br/>
 
