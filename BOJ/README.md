@@ -94,6 +94,7 @@
 |  32  |  [2467](https://www.acmicpc.net/problem/2467)  |             용액             |         이분 탐색, 투 포인터         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2467.md)  |
 |  33  |  [4368](https://www.acmicpc.net/problem/4368)  |        별자리 만들기         |       그래프, 최소 스패닝 트리       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_4368.md)  |
 |  34  |  [2096](https://www.acmicpc.net/problem/2096)  |           내려가기           | 다이나믹 프로그래밍, 슬라이딩 윈도우 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2096.md)  |
+|  35  | [16929](https://www.acmicpc.net/problem/16929) |           Two Dots           |             그래프, DFS              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_16929.md) |
 
 <br>
 
