@@ -50,9 +50,10 @@
 |  29  | [15655](https://www.acmicpc.net/problem/15655) |        N과 M (6)         |                     백트래킹                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15655.md) |
 |  30  | [11723](https://www.acmicpc.net/problem/11723) |           집합           |                 구현, 비트마스킹                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  | [바로가기](./Silver/BOJ_11723.md) |
 |  31  | [15656](https://www.acmicpc.net/problem/15656) |        N과 M (7)         |                     백트래킹                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_15656.md) |
-|  32  |  [1309](https://www.acmicpc.net/problem/1309)  |          동물원          |               다이나믹 프로그래밍                | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1309.md)  |
-|  33  |  [2193](https://www.acmicpc.net/problem/2193)  |          이친수          |               다이나믹 프로그래밍                | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_2193.md)  |
+|  32  |  [1309](https://www.acmicpc.net/problem/1309)  |          동물원          |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1309.md)  |
+|  33  |  [2193](https://www.acmicpc.net/problem/2193)  |          이친수          |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_2193.md)  |
 |  34  |  [1389](https://www.acmicpc.net/problem/2193)  | 케빈 베이컨의 6단계 법칙 |            그래프, BFS, 플로이드 와샬            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1389.md)  |
+|  35  | [10844](https://www.acmicpc.net/problem/10844) |       쉬운 계단 수       |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_10844.md) |
 
 <br/>
 
