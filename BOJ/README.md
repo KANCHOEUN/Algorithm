@@ -96,6 +96,7 @@
 |  33  |  [4368](https://www.acmicpc.net/problem/4368)  |        별자리 만들기         |       그래프, 최소 스패닝 트리       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_4368.md)  |
 |  34  |  [2096](https://www.acmicpc.net/problem/2096)  |           내려가기           | 다이나믹 프로그래밍, 슬라이딩 윈도우 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2096.md)  |
 |  35  | [16929](https://www.acmicpc.net/problem/16929) |           Two Dots           |             그래프, DFS              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_16929.md) |
+|  36  | [14503](https://www.acmicpc.net/problem/14503) |         로봇 청소기          |           구현, 시뮬레이션           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_14503.md) |
 
 <br>
 
