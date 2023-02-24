@@ -98,6 +98,7 @@
 |  35  | [16929](https://www.acmicpc.net/problem/16929) |           Two Dots           |             그래프, DFS              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_16929.md) |
 |  36  | [14503](https://www.acmicpc.net/problem/14503) |         로봇 청소기          |           구현, 시뮬레이션           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_14503.md) |
 |  37  | [14226](https://www.acmicpc.net/problem/14226) |           이모티콘           |             그래프, BFS              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_14226.md) |
+|  38  | [16724](https://www.acmicpc.net/problem/16724) |       피리 부는 사나이       |        그래프, DFS, 분리 집합        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_16724.md) |
 
 <br>
 
