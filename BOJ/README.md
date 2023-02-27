@@ -56,6 +56,7 @@
 |  35  | [10844](https://www.acmicpc.net/problem/10844) |       쉬운 계단 수       |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_10844.md) |
 |  36  | [14888](https://www.acmicpc.net/problem/14888) |     연산자 끼워넣기      |               브루트포스, 백트래킹               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_14888.md) |
 |  37  |  [2644](https://www.acmicpc.net/problem/2644)  |         촌수계산         |                   그래프, BFS                    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_2644.md)  |
+|  38  |  [1269](https://www.acmicpc.net/problem/1269)  |       대칭 차집합        |        자료 구조, 해시를 이용한 집합과 맵        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기](./Silver/BOJ_1269.md)  |
 
 <br/>
 
