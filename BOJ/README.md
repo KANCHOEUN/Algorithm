@@ -102,6 +102,7 @@
 |  36  | [14503](https://www.acmicpc.net/problem/14503) |         로봇 청소기          |           구현, 시뮬레이션           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_14503.md) |
 |  37  | [14226](https://www.acmicpc.net/problem/14226) |           이모티콘           |             그래프, BFS              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_14226.md) |
 |  38  | [16724](https://www.acmicpc.net/problem/16724) |       피리 부는 사나이       |        그래프, DFS, 분리 집합        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_16724.md) |
+|  39  | [14500](https://www.acmicpc.net/problem/14500) |          테트로미노          |           구현, 브루트포스           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_14500.md) |
 
 <br>
 
