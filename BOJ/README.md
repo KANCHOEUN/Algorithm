@@ -105,6 +105,7 @@
 |  38  | [16724](https://www.acmicpc.net/problem/16724) |       피리 부는 사나이       |        그래프, DFS, 분리 집합        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_16724.md) |
 |  39  | [14500](https://www.acmicpc.net/problem/14500) |          테트로미노          |           구현, 브루트포스           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_14500.md) |
 |  40  |  [2573](https://www.acmicpc.net/problem/2573)  |             빙산             |          구현, 그래프, DFS           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2573.md)  |
+|  41  |  [2565](https://www.acmicpc.net/problem/2565)  |            전깃줄            |                  DP                  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2565.md)  |
 
 <br>
 
