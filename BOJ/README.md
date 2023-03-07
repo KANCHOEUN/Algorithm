@@ -109,6 +109,7 @@
 |  40  |  [2573](https://www.acmicpc.net/problem/2573)  |             빙산             |          구현, 그래프, DFS           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2573.md)  |
 |  41  |  [2565](https://www.acmicpc.net/problem/2565)  |            전깃줄            |                  DP                  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2565.md)  |
 |  42  | [15683](https://www.acmicpc.net/problem/15683) |             감시             |     구현, 시뮬레이션, 브루트포스     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_15683.md) |
+|  43  |  [1717](https://www.acmicpc.net/problem/1717)  |         집합의 표현          |         자료 구조, 분리 집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_1717.md)  |
 
 <br>
 
