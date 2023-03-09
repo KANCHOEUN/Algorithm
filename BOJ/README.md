@@ -60,6 +60,7 @@
 |  38  |  [1269](https://www.acmicpc.net/problem/1269)  |       대칭 차집합        |        자료 구조, 해시를 이용한 집합과 맵        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기](./Silver/BOJ_1269.md)  |
 |  39  |  [6603](https://www.acmicpc.net/problem/6603)  |           로또           |           수학, 조합론, 백트래킹, 재귀           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_6603.md)  |
 |  40  |  [1074](https://www.acmicpc.net/problem/1074)  |            Z             |                 분할 정복, 재귀                  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1074.md)  |
+|  41  |  [1764](https://www.acmicpc.net/problem/1764)  |          듣보잡          | 자료 구조, 문자열, 정렬, 해시를 이용한 집합과 맵 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기](./Silver/BOJ_1764.md)  |
 
 <br/>
 
