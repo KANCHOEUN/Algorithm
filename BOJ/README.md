@@ -112,6 +112,7 @@
 |  42  | [15683](https://www.acmicpc.net/problem/15683) |             감시             |       구현, 시뮬레이션, 브루트포스        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_15683.md) |
 |  43  |  [1717](https://www.acmicpc.net/problem/1717)  |         집합의 표현          |           자료 구조, 분리 집합            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_1717.md)  |
 |  44  |  [1766](https://www.acmicpc.net/problem/1766)  |            문제집            | 자료 구조, 그래프, 우선순위 큐, 위상 정렬 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](./Gold/BOJ_1766.md)  |
+|  45  |  [1922](https://www.acmicpc.net/problem/1922)  |        네트워크 연결         |         그래프, 최소 스패닝 트리          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1922.md)  |
 
 <br>
 
