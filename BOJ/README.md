@@ -63,6 +63,7 @@
 |  41  |  [1764](https://www.acmicpc.net/problem/1764)  |          듣보잡          | 자료 구조, 문자열, 정렬, 해시를 이용한 집합과 맵 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기](./Silver/BOJ_1764.md)  |
 |  42  |  [1992](https://www.acmicpc.net/problem/1992)  |        쿼드 트리         |                 분할 정복, 재귀                  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_1992.md)  |
 |  43  |  [2468](https://www.acmicpc.net/problem/2468)  |        안전 영역         |             그래프, 브루트포스, BFS              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2468.md)  |
+|  44  |  [2960](https://www.acmicpc.net/problem/2468)  |   에라토스테네스의 체    |         수학, 구현, 에라토스테네스의 체          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2960.md)  |
 
 <br/>
 
