@@ -22,6 +22,7 @@
 |  08  |  [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)   |        BFS        |           연습문제            |   [바로가기](./Lv2/prac_154538.md)   |
 |  09  |   [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)    |        BFS        |           연습문제            |   [바로가기](./Lv2/prac_154540.md)   |
 |  10  | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) |       정렬        |           연습문제            |   [바로가기](./Lv2/prac_147354.md)   |
+|  11  |   [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)    |        BFS        |           연습문제            |   [바로가기](./Lv2/prac_169199.md)   |
 
 <br>
 
