@@ -66,6 +66,7 @@
 |  44  |  [2960](https://www.acmicpc.net/problem/2468)  |     에라토스테네스의 체      |         수학, 구현, 에라토스테네스의 체          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_2960.md)  |
 |  45  |  [4963](https://www.acmicpc.net/problem/4963)  |          섬의 개수           |                 그래프, DFS, BFS                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_4963.md)  |
 |  46  | [11478](https://www.acmicpc.net/problem/11478) | 서로 다른 부분 문자열의 개수 |    자료구조, 문자열, 해시를 이용한 집합과 맵     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_11478.md) |
+|  47  | [16967](https://www.acmicpc.net/problem/16967) |        배열 복원하기         |                       구현                       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_16967.md) |
 
 <br/>
 
