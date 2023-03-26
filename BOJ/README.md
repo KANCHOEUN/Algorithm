@@ -67,6 +67,7 @@
 |  45  |  [4963](https://www.acmicpc.net/problem/4963)  |          섬의 개수           |                 그래프, DFS, BFS                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_4963.md)  |
 |  46  | [11478](https://www.acmicpc.net/problem/11478) | 서로 다른 부분 문자열의 개수 |    자료구조, 문자열, 해시를 이용한 집합과 맵     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_11478.md) |
 |  47  | [16967](https://www.acmicpc.net/problem/16967) |        배열 복원하기         |                       구현                       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_16967.md) |
+|  48  | [11057](https://www.acmicpc.net/problem/11057) |          오르막 수           |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_11057.md) |
 
 <br/>
 
@@ -107,7 +108,7 @@
 |  31  |  [1799](https://www.acmicpc.net/problem/1799)  |             비숍             |                 백트래킹                  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [바로가기](./Gold/BOJ_1799.md)  |
 |  32  |  [2467](https://www.acmicpc.net/problem/2467)  |             용액             |           이분 탐색, 투 포인터            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2467.md)  |
 |  33  |  [4368](https://www.acmicpc.net/problem/4368)  |        별자리 만들기         |         그래프, 최소 스패닝 트리          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_4368.md)  |
-|  34  |  [2096](https://www.acmicpc.net/problem/2096)  |           내려가기           |   다이나믹 프로그래밍, 슬라이딩 윈도우    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2096.md)  |
+|  34  |  [2096](https://www.acmicpc.net/problem/2096)  |           내려가기           |            DP, 슬라이딩 윈도우            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_2096.md)  |
 |  35  | [16929](https://www.acmicpc.net/problem/16929) |           Two Dots           |                그래프, DFS                | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_16929.md) |
 |  36  | [14503](https://www.acmicpc.net/problem/14503) |         로봇 청소기          |             구현, 시뮬레이션              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_14503.md) |
 |  37  | [14226](https://www.acmicpc.net/problem/14226) |           이모티콘           |                그래프, BFS                | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_14226.md) |
