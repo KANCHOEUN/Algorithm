@@ -68,6 +68,7 @@
 |  46  | [11478](https://www.acmicpc.net/problem/11478) | 서로 다른 부분 문자열의 개수 |    자료구조, 문자열, 해시를 이용한 집합과 맵     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_11478.md) |
 |  47  | [16967](https://www.acmicpc.net/problem/16967) |        배열 복원하기         |                       구현                       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_16967.md) |
 |  48  | [11057](https://www.acmicpc.net/problem/11057) |          오르막 수           |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_11057.md) |
+|  49  | [11048](https://www.acmicpc.net/problem/11048) |           이동하기           |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_11048.md) |
 
 <br/>
 
