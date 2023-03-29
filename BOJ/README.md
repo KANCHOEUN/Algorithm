@@ -69,6 +69,7 @@
 |  47  | [16967](https://www.acmicpc.net/problem/16967) |        배열 복원하기         |                       구현                       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_16967.md) |
 |  48  | [11057](https://www.acmicpc.net/problem/11057) |          오르막 수           |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_11057.md) |
 |  49  | [11048](https://www.acmicpc.net/problem/11048) |           이동하기           |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_11048.md) |
+|  50  |  [9461](https://www.acmicpc.net/problem/9461)  |         파도반 수열          |                     수학, DP                     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_9461.md)  |
 
 <br/>
 
