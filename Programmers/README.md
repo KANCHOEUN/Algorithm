@@ -26,6 +26,7 @@
 |  10  | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) |         정렬         |           연습문제            |   [바로가기](./Lv2/prac_147354.md)   |
 |  11  |   [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)    |         BFS          |           연습문제            |   [바로가기](./Lv2/prac_169199.md)   |
 |  12  |   [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)    | 최소 힙, 우선순위 큐 |           연습문제            |   [바로가기](./Lv2/prac_142085.md)   |
+|  13  | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) |     브루트 포스      |           연습문제            |   [바로가기](./Lv2/prac_131130.md)   |
 
 <br>
 
