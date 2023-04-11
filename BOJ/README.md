@@ -127,6 +127,7 @@
 |  46  | [12015](https://www.acmicpc.net/problem/12015) | 가장 긴 증가하는 부분 수열 2 |                 이분 탐색                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [바로가기](./Gold/BOJ_12015.md) |
 |  47  |  [1238](https://www.acmicpc.net/problem/1238)  |             파티             |                다익스트라                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_1238.md)  |
 |  48  | [12865](https://www.acmicpc.net/problem/12865) |         평범한 배낭          |               DP, 배낭 문제               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_12865.md) |
+|  49  | [14719](https://www.acmicpc.net/problem/14719) |             빗물             |             구현, 시뮬레이션              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_14719.md) |
 
 <br>
 
