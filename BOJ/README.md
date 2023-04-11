@@ -128,6 +128,7 @@
 |  47  |  [1238](https://www.acmicpc.net/problem/1238)  |             파티             |                다익스트라                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_1238.md)  |
 |  48  | [12865](https://www.acmicpc.net/problem/12865) |         평범한 배낭          |               DP, 배낭 문제               | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_12865.md) |
 |  49  | [14719](https://www.acmicpc.net/problem/14719) |             빗물             |             구현, 시뮬레이션              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_14719.md) |
+|  50  |  [7490](https://www.acmicpc.net/problem/7490)  |           0 만들기           |          구현, 문자열, 백트래킹           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_7490.md)  |
 
 <br>
 
