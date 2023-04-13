@@ -73,6 +73,7 @@
 |  51  | [11051](https://www.acmicpc.net/problem/11051) |         이항 계수 2          |                 수학, DP, 조합론                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_11051.md) |
 |  52  |  [1927](https://www.acmicpc.net/problem/1927)  |           최소 힙            |             자료 구조, 우선 순위 큐              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1927.md)  |
 |  53  | [16931](https://www.acmicpc.net/problem/16931) |        겉넓이 구하기         |                   구현, 기하학                   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_16931.md) |
+|  54  | [12891](https://www.acmicpc.net/problem/12891) |         DNA 비밀번호         |             문자열, 슬라이딩 윈도우              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_12891.md) |
 
 <br/>
 
