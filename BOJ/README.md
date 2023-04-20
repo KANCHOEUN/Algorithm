@@ -135,6 +135,7 @@
 |  49  | [14719](https://www.acmicpc.net/problem/14719) |             빗물             |             구현, 시뮬레이션              | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_14719.md) |
 |  50  |  [7490](https://www.acmicpc.net/problem/7490)  |           0 만들기           |          구현, 문자열, 백트래킹           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_7490.md)  |
 |  51  |  [1451](https://www.acmicpc.net/problem/1451)  |     직사각형으로 나누기      |    브루트포스, 누적합, 많은 조건 분기     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1451.md)  |
+|  52  | [16197](https://www.acmicpc.net/problem/16197) |           두 동전            |           그래프, BFS, 백트래킹           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_16197.md) |
 
 <br>
 
