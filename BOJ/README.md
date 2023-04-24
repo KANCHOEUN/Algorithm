@@ -79,6 +79,7 @@
 |  56  | [15989](https://www.acmicpc.net/problem/15989) |       1, 2, 3 더하기 4       |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_15989.md) |
 |  57  |  [1283](https://www.acmicpc.net/problem/1283)  |         단축키 지정          |                   구현, 문자열                   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_1283.md)  |
 |  58  | [20291](https://www.acmicpc.net/problem/20291) |        파일 정리지정         |   구현, 문자열, 파싱, 해시를 사용한 집합과 맵    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_20291.md) |
+|  58  |  [2559](https://www.acmicpc.net/problem/2559)  |             수열             |       누적 합, 두 포인터, 슬라이딩 윈도우        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_2559.md)  |
 
 <br/>
 
