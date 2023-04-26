@@ -13,6 +13,7 @@
 |  07  |  [1037](https://www.acmicpc.net/problem/1037)  |                 약수                 |         수학, 정수론          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [바로가기](./Bronze/BOJ_1037.md)  |
 |  08  |  [2609](https://www.acmicpc.net/problem/2609)  |       최대공약수와 최소공배수        | 수학, 정수론, 유클리드 호제법 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [바로가기](./Bronze/BOJ_2609.md)  |
 |  09  |  [5585](https://www.acmicpc.net/problem/5585)  |               거스름돈               |            그리디             | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [바로가기](./Bronze/BOJ_5585.md)  |
+|  10  |  [6996](https://www.acmicpc.net/problem/6996)  |               애너그램               |         구현, 문자열          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [바로가기](./Bronze/BOJ_6996.md)  |
 
 <br>
 
