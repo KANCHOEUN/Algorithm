@@ -83,6 +83,7 @@
 |  58  |  [2559](https://www.acmicpc.net/problem/2559)  |             수열             |       누적 합, 두 포인터, 슬라이딩 윈도우        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_2559.md)  |
 |  59  | [15724](https://www.acmicpc.net/problem/15724) |            주지수            |                   DP, 누적 합                    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_15724.md) |
 |  60  | [21317](https://www.acmicpc.net/problem/21317) |       징검다리 건너기        |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_21317.md) |
+|  61  |  [5212](https://www.acmicpc.net/problem/5212)  |         지구 온난화          |                 구현, 시뮬레이션                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  | [바로가기](./Silver/BOJ_21317.md) |
 
 <br/>
 
