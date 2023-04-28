@@ -143,6 +143,7 @@
 |  51  |  [1451](https://www.acmicpc.net/problem/1451)  |     직사각형으로 나누기      |                 브루트포스, 누적합, 많은 조건 분기                  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1451.md)  |
 |  52  | [16197](https://www.acmicpc.net/problem/16197) |           두 동전            |                        그래프, BFS, 백트래킹                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_16197.md) |
 |  53  | [22860](https://www.acmicpc.net/problem/22860) |      폴더 정리 (small)       | 구현, 자료 구조, 그래프, 문자열, 트리, DFS, 해시를 사용한 집합과 맵 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_22860.md) |
+|  54  | [11657](https://www.acmicpc.net/problem/11657) |           타임머신           |                          그래프, 벨만-포드                          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_11657.md) |
 
 <br>
 
