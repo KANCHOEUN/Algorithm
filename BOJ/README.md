@@ -148,6 +148,7 @@
 |  53  | [22860](https://www.acmicpc.net/problem/22860) |      폴더 정리 (small)       | 구현, 자료 구조, 그래프, 문자열, 트리, DFS, 해시를 사용한 집합과 맵 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](./Gold/BOJ_22860.md) |
 |  54  | [11657](https://www.acmicpc.net/problem/11657) |           타임머신           |                          그래프, 벨만-포드                          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_11657.md) |
 |  55  | [17609](https://www.acmicpc.net/problem/17609) |             회문             |                          문자열, 두 포인터                          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_17609.md) |
+|  55  | [16234](https://www.acmicpc.net/problem/16234) |          인구 이동           |                    구현, 시뮬레이션, 그래프, BFS                    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_16234.md) |
 
 <br>
 
