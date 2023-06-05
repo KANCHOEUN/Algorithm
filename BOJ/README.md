@@ -152,6 +152,7 @@
 |  55  | [17609](https://www.acmicpc.net/problem/17609) |             회문             |                          문자열, 두 포인터                          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_17609.md) |
 |  55  | [16234](https://www.acmicpc.net/problem/16234) |          인구 이동           |                    구현, 시뮬레이션, 그래프, BFS                    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_16234.md) |
 |  56  |  [1695](https://www.acmicpc.net/problem/1695)  |       팰린드롬 만들기        |                                 DP                                  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](./Gold/BOJ_1695.md)  |
+|  57  |  [1749](https://www.acmicpc.net/problem/1749)  |          점수따먹기          |                       DP, 누적합, 브루트포스                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1749.md)  |
 
 <br>
 
