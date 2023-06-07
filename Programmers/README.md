@@ -28,6 +28,7 @@
 |  12  |   [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)    | 최소 힙, 우선순위 큐 |           연습문제            |   [바로가기](./Lv2/prac_142085.md)   |
 |  13  | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) |     브루트 포스      |           연습문제            |   [바로가기](./Lv2/prac_131130.md)   |
 |  14  |    [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)     |  자료 구조, 해시 맵  |           연습문제            |   [바로가기](./Lv2/parc_138476.md)   |
+|  15  |     [[1차]캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)     |      자료 구조       | 2018 KAKAO BLIND RECRUITMENT  |    [바로가기](./Lv2/2018kbr_1.md)    |
 
 <br>
 
