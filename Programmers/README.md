@@ -30,6 +30,7 @@
 |  14  |    [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)     |  자료 구조, 해시 맵  |           연습문제            |   [바로가기](./Lv2/parc_138476.md)   |
 |  15  |     [[1차]캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)     |      자료 구조       | 2018 KAKAO BLIND RECRUITMENT  |    [바로가기](./Lv2/2018kbr_1.md)    |
 |  16  |     [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)     |     문자열, 구현     | 2021 KAKAO BLIND RECRUITMENT  |    [바로가기](./Lv2/2021kbr_2.md)    |
+|  17  |     [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)     |  투 포인터, 해시 맵  |     2020 KAKAO INTERNSHIP     |    [바로가기](./Lv2/2020ki_1.md)     |
 
 <br>
 
