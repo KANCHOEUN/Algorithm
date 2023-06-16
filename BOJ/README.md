@@ -157,6 +157,7 @@
 |  57  |  [1749](https://www.acmicpc.net/problem/1749)  |          점수따먹기          |                       DP, 누적합, 브루트포스                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1749.md)  |
 |  58  |  [1956](https://www.acmicpc.net/problem/1956)  |             운동             |                        그래프, 플로이드-워셜                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1956.md)  |
 |  59  | [10159](https://www.acmicpc.net/problem/10159) |             저울             |                        그래프, 플로이드-워셜                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_10159.md) |
+|  60  |  [2458](https://www.acmicpc.net/problem/2458)  |           키 순서            |                        그래프, 플로이드-워셜                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2458.md)  |
 
 <br>
 
