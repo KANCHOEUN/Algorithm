@@ -90,6 +90,7 @@
 |  64  | [11727](https://www.acmicpc.net/problem/11727) |         2×n 타일링 2         |                        DP                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [바로가기](./Silver/BOJ_11727.md) |
 |  65  | [16507](https://www.acmicpc.net/problem/16507) |       어두운 건 무서워       |                      누적합                      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](./Silver/BOJ_16507.md) |
 |  66  |  [1302](https://www.acmicpc.net/problem/1302)  |          베스트셀러          | 자료 구조, 문자열, 정렬, 해시를 사용한 집합과 맵 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기](./Silver/BOJ_1302.md)  |
+|  67  |  [1010](https://www.acmicpc.net/problem/1010)  |          다리 놓기           |                 수학, DP, 조합론                 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  | [바로가기](./Silver/BOJ_1302.md)  |
 
 <br/>
 
