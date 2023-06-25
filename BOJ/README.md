@@ -160,6 +160,7 @@
 |  58  |  [1956](https://www.acmicpc.net/problem/1956)  |             운동             |                        그래프, 플로이드-워셜                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_1956.md)  |
 |  59  | [10159](https://www.acmicpc.net/problem/10159) |             저울             |                        그래프, 플로이드-워셜                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_10159.md) |
 |  60  |  [2458](https://www.acmicpc.net/problem/2458)  |           키 순서            |                        그래프, 플로이드-워셜                        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_2458.md)  |
+|  61  |  [9935](https://www.acmicpc.net/problem/9935)  |         문자열 폭발          |                       자료 구조, 문자열, 스택                       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](./Gold/BOJ_9935.md)  |
 
 <br>
 
