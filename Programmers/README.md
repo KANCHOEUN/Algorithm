@@ -7,6 +7,7 @@
 |  01  |  [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)   |     문자열     | 2021 카카오 채용연계형 인턴십 |  [바로가기](./Lv1/2021kri_2.md)  |
 |  02  | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) |     문자열     | 2023 KAKAO BLIND RECRUITMENT  |  [바로가기](./Lv1/2023kbr_1.md)  |
 |  03  |     [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)     | 문자열, 해시맵 |           연습 문제           | [바로가기](./Lv1/prac_160586.md) |
+|  04  |      [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)       | 문자열, 해시맵 |           연습 문제           | [바로가기](./Lv1/prac_178871.md) |
 
 <br>
 
