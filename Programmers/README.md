@@ -32,6 +32,7 @@
 |  15  |     [[1차]캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)     |      자료 구조       | 2018 KAKAO BLIND RECRUITMENT  |    [바로가기](./Lv2/2018kbr_1.md)    |
 |  16  |     [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)     |     문자열, 구현     | 2021 KAKAO BLIND RECRUITMENT  |    [바로가기](./Lv2/2021kbr_2.md)    |
 |  17  |     [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)     |  투 포인터, 해시 맵  |     2020 KAKAO INTERNSHIP     |    [바로가기](./Lv2/2020ki_1.md)     |
+|  18  |     [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)     |  이진 탐색  |     PCCP 기출문제     |    [바로가기](./Lv2/pccp_340212.md)     |
 
 <br>
 
@@ -40,3 +41,4 @@
 | 번호 |                                  문제 이름                                   |                문제 유형                 |          출제 기관           |              풀이              |
 | :--: | :--------------------------------------------------------------------------: | :--------------------------------------: | :--------------------------: | :----------------------------: |
 |  01  | [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366#) | 문자열, 자료구조, 유니온 파인드, 해시 맵 | 2023 KAKAO BLIND RECRUITMENT | [바로가기](./Lv3/2023kbr_2.md) |
+|  02  | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | 자료구조, 정렬 | 연습문제 | [바로가기](./Lv3/prac_152995.md) |
