@@ -34,6 +34,7 @@
 |  17  |     [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)     |  투 포인터, 해시 맵  |     2020 KAKAO INTERNSHIP     |    [바로가기](./Lv2/2020ki_1.md)     |
 |  18  |     [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)     |  이진 탐색  |     PCCP 기출문제     |    [바로가기](./Lv2/pccp_340212.md)     |
 |  19  |     [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)     |  BFS |     PCCP 기출문제     |    [바로가기](./Lv2/pccp_250136.md)     |
+|  20  |     [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)     |  Map, 슬라이딩 윈도우 |     연습문제     |    [바로가기](./Lv2/prac_131127.md)     |
 
 <br>
 
