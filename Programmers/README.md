@@ -46,3 +46,4 @@
 |  02  | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | 자료구조, 정렬 | 연습문제 | [바로가기](./Lv3/prac_152995.md) |
 |  03  | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | DFS/BFS | 연습문제 | [바로가기](./Lv3/prac_43613.md) |
 |  04  | [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | Map, 구현 | Dev Matching | [바로가기](./Lv3/2021dev_1.md) |
+|  05  | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) | 구현 | 월간 코드 챌린지 시즌1 | [바로가기](./Lv3/monthlychallenge_1.md) |
