@@ -6,6 +6,7 @@
 | :--: | :----------------------------------------------------------------------------------------: | :------------:  | :------------------------------: |
 |  01  |  [빙산의 일각](https://www.codetree.ai/training-field/search/problems/the-tip-of-the-iceberg)   |     정렬, 구현     |  [바로가기](./Silver/빙산의일각.md)  |
 
+
 <br/>
 
 ### 1️⃣ <strong>Gold</strong>
@@ -13,5 +14,7 @@
 | 번호 |                                         문제 이름                                          |   문제 유형    |                    풀이               |
 | :--: | :----------------------------------------------------------------------------------------: | :------------:  | :------------------------------: |
 |  01  |  [막대기 옮기기](https://www.codetree.ai/training-field/search/problems/moving-the-stick/description)   |    BFS    |  [바로가기](./Gold/막대기옮기기.md)  |
+|  02  |  [식의 표기법 바꾸기](https://www.codetree.ai/training-field/search/problems/replace-notation-of-expressions/description)   |     Stack, 구현     |  [바로가기](./Gold/식의표기법바꾸기.md)  |
+
 
 <br/>
