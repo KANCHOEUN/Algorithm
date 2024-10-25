@@ -16,6 +16,7 @@
 |  01  |  [막대기 옮기기](https://www.codetree.ai/training-field/search/problems/moving-the-stick/description)   |    BFS    |  [바로가기](./Gold/막대기옮기기.md)  |
 |  02  |  [식의 표기법 바꾸기](https://www.codetree.ai/training-field/search/problems/replace-notation-of-expressions/description)   |     Stack, 구현     |  [바로가기](./Gold/식의표기법바꾸기.md)  |
 |  03  |  [장난감 조립](https://www.codetree.ai/training-field/search/problems/make-toy/description)   |     위상 정렬     |  [바로가기](./Gold/식의표기법바꾸기.md)  |
+|  04  |  [확산 3](https://www.codetree.ai/training-field/search/problems/diffusion-3/description)   |     BFS   |  [바로가기](./Gold/확산3.md)  |
 
 
 <br/>
